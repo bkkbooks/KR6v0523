@@ -18,13 +18,13 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0523_000.yaml, hash: 'sha256:e9f257a2b961a097aa08c0b1b09ef7f01b04843f805ffe5b2ea8946df99e1531'}
+  - {seq: 0, filename: KR6v0523_000.yaml, hash: 'sha256:90c4913f51764ef25d0eec87324fe7c7e14f2f567e8649d069f1cdeefe4aa997'}
   - {seq: 1, filename: KR6v0523_001.yaml, hash: 'sha256:4d6f5e6c340fb5f321aac66eb4fd3aaed58b0be2d815ed96ab7a369e2f00e130'}
   - {seq: 2, filename: KR6v0523_002.yaml, hash: 'sha256:325ec5d20a4ecab0a98d648c477416815acd47d1aeb9597121c91def64f0eeba'}
   - {seq: 3, filename: KR6v0523_003.yaml, hash: 'sha256:7aa3ddf77f64d8497721603f49356a9ce3a4728b0c3035a686fb68dd1a67e8d6'}
   - {seq: 4, filename: KR6v0523_004.yaml, hash: 'sha256:a799a40bcdbed4d449ca9d49f1bf95ee3f3c5117549fdc940536449ecce72183'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0523_000.markers.yaml, hash: 'sha256:bcb962e5343180b0b530af78dd8e9ff12a9626035d72f368c4ff6e8d3f85b3d9'}
+  - {seq: 0, role: markers, filename: assets/KR6v0523_000.markers.yaml, hash: 'sha256:9bb6b235c86250d8099912eddc76b6280dd9a7b392dd4af017a5d1b326df85c8'}
   - {seq: 1, role: markers, filename: assets/KR6v0523_001.markers.yaml, hash: 'sha256:551d4f62f07f385341912fdf1b9be372e7536fa98081c9543b810ff3a87a3ffa'}
   - {seq: 2, role: markers, filename: assets/KR6v0523_002.markers.yaml, hash: 'sha256:7d04f9366826990a97cb07be2fec69d486d4544de491e53452cbc2d7f12c7c03'}
   - {seq: 3, role: markers, filename: assets/KR6v0523_003.markers.yaml, hash: 'sha256:2716948453bba676cfc26ad64b2058789f9698b5d00af1400a2a5987587bd552'}
@@ -34,7 +34,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0523_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -44,7 +44,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0523_GA_000-mulu-2
     span:
-    - front
+    - body
     - 550
     - 550
   label: 卷首
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0523_GA_000-mulu-3
     span:
-    - front
+    - body
     - 550
     - 550
   label: 叙
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0523_GA_000-mulu-4
     span:
-    - front
+    - body
     - 816
     - 816
   label: 寺圖
@@ -74,7 +74,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0523_GA_000-mulu-5
     span:
-    - front
+    - body
     - 820
     - 820
   label: 碑記
@@ -1260,7 +1260,7 @@ table_of_contents:
   label: 重建碑記
   type: mulu
   level: 1
-hash: sha256:04e24b67cc6bf8614f74fc89b3c28ffdc0557e9bf553510e9729468410ebc8cf
+hash: sha256:288cbc0ad2915e0565a728a08a4ee0ae1d8995fe2309eee85d8c69704fa3d9e3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
